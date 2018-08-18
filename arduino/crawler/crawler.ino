@@ -6,6 +6,7 @@
 // this code has been designed by a group of students in Tehran University, faculty of Mechanical engineering 
 // you can contact us by email: ahmednabipour@ut.ac.ir or parham.kazemi@ut.ac.ir or mahdi.hallajian@ut.ac.ir
 
+
 #define PinCLK 2                   // Used for generating interrupts using CLK signal
 #define PinDT 3                    // Used for reading DT signal                  // Used for the push button switch
 #define motorPinAttach_1 6
